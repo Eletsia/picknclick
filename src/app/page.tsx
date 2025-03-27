@@ -144,7 +144,7 @@ export default function HomePage() {
           ))}
         </div>
       </main>
-      <RecentlyViewedSidebar items={items} />
+      <RecentlyViewedSidebar/>
     </>
   );
 }
